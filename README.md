@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mathis027
 - 👀 I’m interested in Web Developement..
 - 🌱 I’m currently learning phyton
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 - mail: mathis@kraekel.com
 - website: kraekel.com
