@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React framework
 - 📫 How to reach me:
 - mail: mathis@kraekel.com
-- website: kraekel.com
+- website: <a href="https://kraekel.com">kraekel.com</a>
 
 <!---
 Mathis027/Mathis027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
