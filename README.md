@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mathis Kräkel
 - 👀 I’m interested in Web Developement..
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React + NextJS
 - 📫 How to reach me:
 - mail: mathis@kraekel.com
 - website: <a href="https://kraekel.com">kraekel.com</a>
